@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TurismeOlot</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_llocs_interes">LlocsInteres</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_menu_principal">Menu</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="title_activity_micro">MicroActivity</string>
+
+</resources>
